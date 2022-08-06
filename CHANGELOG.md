@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/joanor/ppz/compare/v1.0.1...v1.0.2) (2022-08-06)
+
+
+### Bug Fixes
+
+* **flex类:** 添加flex类 ([3aa6c40](https://github.com/joanor/ppz/commit/3aa6c40c182d03011a9c9646b6da92e8302e784d))
+
 ## [1.0.1](https://github.com/joanor/ppz/compare/v1.0.0...v1.0.1) (2022-08-06)
 
 
