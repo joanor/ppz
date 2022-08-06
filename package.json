@@ -1,0 +1,12 @@
+{
+  "name": "ppz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ems <joanoor@outlook.com> (http://192.168.0.211:8081/nexus/content/groups/fd-web-repository/)",
+  "license": "ISC"
+}
