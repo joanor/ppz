@@ -29,5 +29,5 @@ jobs:
       - name: 发布版本
         env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # github自带
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }} # 也有的地方说是NODE_TOKEN，但是报错，这里改成NODE_AUTH_TOKEN
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }} # https://github.com/semantic-release/npm/blob/master/README.md#npm-registry-authentication
         run: npx semantic-release
