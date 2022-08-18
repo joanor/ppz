@@ -1,6 +1,6 @@
 {
   "name": "ppz",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A style collection file commonly used in a project",
   "main": "ppz.css",
   "style": "ppz.css",
